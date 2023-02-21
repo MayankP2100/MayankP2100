@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankp2100&theme=radical" alt="mayankp2100" /></a> </p>
 
-- 🔭 I’m currently working on a **Unity game**
-
-- 🌱 I’m currently learning **advance Unity API**
-
-- 👯 I’m looking to collaborate on **any Unity game**
-
-- 🤝 I’m looking for help with **complex game mechanics**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MayankP2100](https://github.com/MayankP2100)
 
 - 💬 Ask me about **Unity, Python, Kotlin, etc**
