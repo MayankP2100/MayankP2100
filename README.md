@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mayank Pal</h1>
-<h3 align="center">A guy interested in Game Development and other fun things.</h3>
+<h1 align="center">Hello, I'm Mayank Pal</h1>
+<h3 align="center">A guy interested in Game Development and other fun things!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayankp2100&label=Profile%20views&color=0e75b6&style=flat" alt="mayankp2100" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankp2100&theme=juicyfresh&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="mayankp2100" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankp2100&theme=juicyfresh&column=4&margin-w=10&margin-h=10&no-bg=true&rank=-?" alt="mayankp2100" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
