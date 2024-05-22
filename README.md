@@ -12,8 +12,5 @@
 <a href="https://discord.gg/#7274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7274" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankp2100&show_icons=true&locale=en&layout=compact&theme=radical" alt="mayankp2100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankp2100&show_icons=true&locale=en&theme=radical" alt="mayankp2100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankp2100&theme=radical" alt="mayankp2100" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankp2100&show_icons=true&locale=en&layout=compact&theme=radical" alt="mayankp2100" /></p> 
+<p align="center"><img style="float: right;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankp2100&theme=radical" alt="mayankp2100" /></p>
